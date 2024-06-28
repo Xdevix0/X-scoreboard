@@ -1,0 +1,5 @@
+eu\nexucode\xevix\xscoreboard\commands\XscoreCmd.class
+eu\nexucode\xevix\xscoreboard\Main.class
+eu\nexucode\xevix\xscoreboard\listeners\PlayerJoinEvent.class
+eu\nexucode\xevix\xscoreboard\manager\ScoreboardManager.class
+eu\nexucode\xevix\xscoreboard\utils\ColorUtils.class

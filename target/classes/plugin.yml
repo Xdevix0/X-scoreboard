@@ -1,0 +1,9 @@
+name: x-scoreboard
+version: '1.0-SNAPSHOT'
+main: eu.nexucode.xevix.xscoreboard.Main
+api-version: '1.16'
+author: 'xevix_'
+description: 'Plugin for scoreboard or tabList'
+commands:
+  x-score:
+    description: 'Command to reload Tab & scoreBoard'
